@@ -1,6 +1,6 @@
 <p align="center"><a href="https://paysky.io/" target="_blank"><img width="440" src="https://i.ibb.co/0FTNnDb/83ac8f45c38ae9af0b22cfaace84c18362b95a8e7db0622f196a78b85f23ecec.png"></a></p>
 
-# GIM PayButton SDK 
+# GIM PayButton SDK Example
 The PayButton helps make the integration of card acceptance into your app easy.
 
 You simply provide the merchant information you receieve from PaySky to the payment SDK. The PayButton displays a ready-made view that guides the merchant through the payment process and shows a Summary screen at the end of the transaction.
